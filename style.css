@@ -1,0 +1,51 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  border: none;
+  border-radius: 5px;
+  padding: 1rem;
+  padding-bottom: 2rem;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.delete-button {
+  background-color: rgb(124, 37, 37);
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+.edit-button {
+  background-color: rgb(82, 202, 82);
+  border: none;
+  border-radius: 5px;
+}
+.description {
+  border-radius: 5px;
+}
+.nav {
+  background-color: #070f54;
+  color: #ffffff;
+  padding: 1rem;
+}
+.textcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.special-p-tag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
